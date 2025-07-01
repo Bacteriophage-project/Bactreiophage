@@ -116,7 +116,7 @@ This project will be released under an open-source license (e.g., MIT or GPL) to
 ## 👥 Authors & Contributors
 
 Maintained by the Bioinformatics & AI Genomics Team.  
-For questions or collaboration, contact [your_email@example.com].
+For questions or collaboration, contact [email].
 
 ---
 
