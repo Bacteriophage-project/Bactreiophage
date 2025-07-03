@@ -51,13 +51,13 @@ const teamMembers = [
   {
     img: Abidha,
     name: 'Kevin Abidha',
-    role: 'Machine Learning',
-    description: 'Implements ML models for analysis automation.',
-    link: 'https://www.linkedin.com/in/kelvinabidha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+    role: 'Backend Developer',
+    description: 'Builds and maintains the backend systems that fetch, analyze, and report on genomic data for the Bacteriophage platform.',
+    link: 'https://www.linkedin.com/in/kelvinabidha/',
   },
   {
     img: Nesh,
-    name: 'Josephat Munene',
+    name: 'Munene Josphat',
     role: 'Artificial Intelligence',
     description: 'Develops AI-powered tools for prediction.',
   },
